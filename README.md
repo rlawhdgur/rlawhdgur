@@ -6,13 +6,13 @@
 </p>
 
 
-📖 Language : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-F80000?style=flat&logo=SQL&logoColor=white"> 
+📖 **Language** : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-F80000?style=flat&logo=SQL&logoColor=white"> 
 
-🔥 Framework : <img src="https://img.shields.io/badge/Spring%20Boot-v.2.7.9-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Mybaits-BD1C2B?style=flat"> 
+🔥 **Framework** : <img src="https://img.shields.io/badge/Spring%20Boot-v.2.7.9-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Mybaits-BD1C2B?style=flat"> 
 
-💻 작업툴 : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
+💻 **작업툴** : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
 
-📁 DataBase : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=mongodb&logoColor=white"> 
+📁 **DataBase** : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=mongodb&logoColor=white"> 
 
 <!-- # <p align="center"> Thank You❤‍🔥 </p> -->
 
