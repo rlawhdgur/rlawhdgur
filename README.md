@@ -14,6 +14,9 @@
 
 📁 **DataBase** : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=mongodb&logoColor=white"> 
 
+***
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawhdgur&show_icons=true&theme=radical)
+
 <!-- # <p align="center"> Thank You❤‍🔥 </p> -->
 
 <!--
